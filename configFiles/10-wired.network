@@ -1,0 +1,5 @@
+[Match]
+MACAddress=<mac-address>
+
+[Network]
+DHCP=yes
